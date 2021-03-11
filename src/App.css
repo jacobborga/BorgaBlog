@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+}
+
+body * {
+  margin-top: 0;
+}
+
+.App {
+  text-align: center;
+  margin: 0 auto;
+  background-color: rgb(229, 229, 229);
+  height: 100%;
+}
+
+Switch * {
+  display: flex;
+  justify-content: flex-end;
+}
