@@ -5,6 +5,7 @@ import { BrowserRouter as Router,
 import Navigation from './components/Navigation'
 import Home from './components/Home';
 import About from './components/About';
+import Footer from './components/Footer';
 import React from 'react';
 
 export default class App extends React.Component {
@@ -21,6 +22,7 @@ export default class App extends React.Component {
               <Home />
             </Route>
           </Switch>
+          <Footer />
         </div>
       </Router>
     );

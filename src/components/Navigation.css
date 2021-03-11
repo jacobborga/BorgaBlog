@@ -5,6 +5,14 @@
     --plat: rgb(229, 229, 229);
 }
 
+.close-btn {
+    color: white;
+    position: absolute;
+    top: 4.9%;
+    left: 10%;
+    cursor: pointer;
+}
+
 nav {
     margin: 0 auto;
     position: fixed;

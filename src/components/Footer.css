@@ -1,0 +1,9 @@
+.footer-container {
+    position: absolute;
+    bottom: 2%;
+    margin-left: 3%;
+}
+
+footer {
+    color: rgb(229, 229, 229);
+}
